@@ -2,7 +2,7 @@
 ##
 ## Author: 			Vineeth C M
 ## Date: 			15th February 2019
-## Description: 	Epsilon greedy based multi armed bandit
+## Description: 	Upper Confidence Bound (UCB) based multi armed bandit
 ##
 #############################################################################################
 
